@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Droder</string>
+    <string name="app_Ok">OK</string>
+    <string name="editor_hint">在此输入需要翻译的文本</string>
+</resources>
